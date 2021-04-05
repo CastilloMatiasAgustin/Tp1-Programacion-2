@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617488588 source:c:\users\castillo\desktop\matias\utn\programacion 2 2021\ejercitacion programacion 2\unidad 2 poo\tp programacion 2 ej a\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<ctime>
+	"Funciones.h"
+
+1617567826 c:\users\castillo\desktop\matias\utn\programacion 2 2021\ejercitacion programacion 2\unidad 2 poo\tp programacion 2 ej a\funciones.h
+
